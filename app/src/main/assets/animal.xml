@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<animal xmlns="https://www.baidu.com/">
+    <dog>
+        <name>Rufus</name>
+        <breed>labrador</breed>
+        <link href="https://www.baidu.com/s?wd=labrador" rel="alternate"></link>
+        <profile type="html">
+            <![CDATA[
+            <p style="color: #34495e;">拉布拉多猎犬（英文名：Labrador retriever）是起源于加拿大的纽芬兰岛，最早被训练在冰冷的海上将渔网收回和担任搬运工作的一种猎犬。</p>
+            ]]>
+        </profile>
+    </dog>
+    <dog>
+        <name>Marty</name>
+        <breed>whippet</breed>
+        <link href="https://www.baidu.com/s?wd=whippet" rel="alternate"></link>
+        <profile type="html">
+            <![CDATA[
+            <p style="color: #34495e;">小灵狗是一种赛狗，性温顺。和蔼。</p>
+            ]]>
+        </profile>
+    </dog>
+    <cat>
+        <name>小黄</name>
+    </cat>
+</animal>
+
+
+
